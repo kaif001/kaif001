@@ -1,3 +1,4 @@
+![logo](https://github.com/kaif001/kaif001/blob/main/Screenshot_1.png)
 <h1 align="center">Hi 👋, I'm Muhammad Kaif</h1>
 <h3 align="center">A passionate Frontend developer from Pakistan</h3>
 <img src="https://www.lambdatest.com/resources/images/news24.gif" width="400" alt="frontend web developer" align="right">
